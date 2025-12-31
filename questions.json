@@ -1,0 +1,219 @@
+[
+  {
+    "question": "Quel est le langage utilisé pour structurer les pages web ?",
+    "options": ["HTML", "CSS", "JavaScript", "XML"],
+    "answer": "HTML"
+  },
+  {
+    "question": "Quel langage est principalement utilisé pour styliser les pages web ?",
+    "options": ["HTML", "CSS", "Python", "SASS"],
+    "answer": "CSS"
+  },
+  {
+    "question": "Quel langage est utilisé pour rendre les pages web interactives ?",
+    "options": ["JavaScript", "PHP", "C++", "TypeScript"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Quel est le protocole utilisé pour sécuriser les sites web ?",
+    "options": ["HTTP", "HTTPS", "FTP", "SSH"],
+    "answer": "HTTPS"
+  },
+  {
+    "question": "Quel est le système d’exploitation open source le plus utilisé sur les serveurs ?",
+    "options": ["Windows Server", "Linux", "macOS", "Unix"],
+    "answer": "Linux"
+  },
+  {
+    "question": "Quel est le langage de programmation créé par Guido van Rossum ?",
+    "options": ["Python", "Java", "Ruby", "Go"],
+    "answer": "Python"
+  },
+  {
+    "question": "Quel est le langage de programmation utilisé pour Android natif ?",
+    "options": ["Java", "Swift", "Kotlin", "C#"],
+    "answer": "Kotlin"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer iOS ?",
+    "options": ["Swift", "Java", "C#", "Objective-C"],
+    "answer": "Swift"
+  },
+  {
+    "question": "Quel est le langage compilé utilisé pour la performance dans les systèmes ?",
+    "options": ["C", "Python", "PHP", "Ruby"],
+    "answer": "C"
+  },
+  {
+    "question": "Quel est le langage utilisé pour les bases de données relationnelles ?",
+    "options": ["SQL", "NoSQL", "MongoDB", "GraphQL"],
+    "answer": "SQL"
+  },
+  {
+    "question": "Quel est le moteur de base de données open source populaire ?",
+    "options": ["MySQL", "Oracle", "PostgreSQL", "SQLite"],
+    "answer": "MySQL"
+  },
+  {
+    "question": "Quel est le système de gestion de version le plus utilisé ?",
+    "options": ["Git", "SVN", "Mercurial", "Perforce"],
+    "answer": "Git"
+  },
+  {
+    "question": "Quel est le site le plus utilisé pour héberger du code collaboratif ?",
+    "options": ["GitHub", "Bitbucket", "GitLab", "SourceForge"],
+    "answer": "GitHub"
+  },
+  {
+    "question": "Quel est le protocole utilisé pour envoyer des emails ?",
+    "options": ["SMTP", "IMAP", "POP3", "LDAP"],
+    "answer": "SMTP"
+  },
+  {
+    "question": "Quel est le protocole utilisé pour recevoir des emails ?",
+    "options": ["SMTP", "IMAP", "FTP", "SSH"],
+    "answer": "IMAP"
+  },
+  {
+    "question": "Quel est le protocole utilisé pour transférer des fichiers ?",
+    "options": ["FTP", "HTTP", "SMTP", "SSH"],
+    "answer": "FTP"
+  },
+  {
+    "question": "Quel est le langage utilisé pour l’intelligence artificielle et le machine learning ?",
+    "options": ["Python", "C#", "PHP", "R"],
+    "answer": "Python"
+  },
+  {
+    "question": "Quel est le framework Python utilisé pour le machine learning ?",
+    "options": ["TensorFlow", "React", "Angular", "Scikit-learn"],
+    "answer": "TensorFlow"
+  },
+  {
+    "question": "Quel est le framework Python utilisé pour l’IA et le deep learning ?",
+    "options": ["PyTorch", "Vue", "Django", "Keras"],
+    "answer": "PyTorch"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des sites dynamiques côté serveur ?",
+    "options": ["PHP", "HTML", "CSS", "Java"],
+    "answer": "PHP"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications Windows ?",
+    "options": [".NET/C#", "Java", "Python", "VB.NET"],
+    "answer": ".NET/C#"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications macOS ?",
+    "options": ["Swift", "Java", "C++", "Objective-C"],
+    "answer": "Swift"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des jeux avec Unity ?",
+    "options": ["C#", "Java", "Python", "C++"],
+    "answer": "C#"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des jeux avec Unreal Engine ?",
+    "options": ["C++", "JavaScript", "Python", "C#"],
+    "answer": "C++"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des scripts système sous Linux ?",
+    "options": ["Bash", "Python", "Ruby", "Perl"],
+    "answer": "Bash"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des scripts système sous Windows ?",
+    "options": ["PowerShell", "Python", "C", "Batch"],
+    "answer": "PowerShell"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications web côté serveur avec Node.js ?",
+    "options": ["JavaScript", "PHP", "Ruby", "Python"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications web côté serveur avec Django ?",
+    "options": ["Python", "Java", "PHP", "C#"],
+    "answer": "Python"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications web côté serveur avec Ruby on Rails ?",
+    "options": ["Ruby", "Python", "PHP", "Java"],
+    "answer": "Ruby"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications web côté serveur avec Laravel ?",
+    "options": ["PHP", "Python", "Java", "C#"],
+    "answer": "PHP"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications web côté serveur avec Spring Boot ?",
+    "options": ["Java", "Python", "C#", "PHP"],
+    "answer": "Java"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications web côté serveur avec ASP.NET ?",
+    "options": ["C#", "Java", "Python", "Kotlin"],
+    "answer": "C#"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications mobiles multiplateformes avec Flutter ?",
+    "options": ["Dart", "Java", "Swift", "TypeScript"],
+    "answer": "Dart"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications mobiles multiplateformes avec React Native ?",
+    "options": ["JavaScript", "Python", "C++", "Java"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications mobiles multiplateformes avec Xamarin ?",
+    "options": ["C#", "Java", "Swift", "TypeScript"],
+    "answer": "C#"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications mobiles multiplateformes avec Ionic ?",
+    "options": ["JavaScript", "Python", "Ruby", "Java"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications mobiles multiplateformes avec NativeScript ?",
+    "options": ["JavaScript", "Python", "C++", "TypeScript"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications mobiles multiplateformes avec PhoneGap ?",
+    "options": ["JavaScript", "Python", "Ruby", "Java"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications mobiles multiplateformes avec Kivy ?",
+    "options": ["Python", "Java", "C#", "Ruby"],
+    "answer": "Python"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications mobiles multiplateformes avec Corona SDK ?",
+    "options": ["Lua", "Java", "Python", "JavaScript"],
+    "answer": "Lua"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications mobiles multiplateformes avec Appcelerator ?",
+    "options": ["JavaScript", "Python", "Ruby", "Java"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications mobiles multiplateformes avec Sencha Touch ?",
+    "options": ["JavaScript", "Python", "C++", "C#"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Quel est le langage utilisé pour développer des applications mobiles multiplateformes avec Onsen UI ?",
+    "options": ["JavaScript", "Python", "Ruby", "Java"],
+    "answer": "JavaScript"
+  }
+]
+
+ 

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz C-Tech</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="quiz-container">
+    <header>
+      <div class="header-top">
+        <h1>🎯 Quiz C-Tech</h1>
+        <div class="timer-badge">
+          <span id="timer-value">20</span><span class="timer-label">s</span>
+        </div>
+      </div>
+      <div class="score-row">
+        <div class="score-item">
+          <span class="label">📊 Score</span>
+          <span class="value" id="score">0</span>
+        </div>
+        <div class="score-item">
+          <span class="label">🏆 Meilleur</span>
+          <span class="value" id="best-score">0</span>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="progress-section">
+        <div id="progress">
+          <span class="progress-text">Question <span id="current">0</span></span>
+        </div>
+        <div id="progress-bar"><div id="progress-fill" aria-hidden="true"></div></div>
+      </div>
+
+      <div id="question" class="question" aria-live="polite"></div>
+      <div id="options" class="options" role="list"></div>
+    </main>
+
+    <footer class="controls">
+      <div id="message" role="status" aria-live="assertive" class="message"></div>
+      <div class="button-group">
+        <div class="buttons-top">
+          <button id="help-btn" class="btn-help" title="Utilisable une seule fois">
+            <span class="btn-icon">💡</span>
+            <span class="btn-text">Aide</span>
+          </button>
+        </div>
+        <div class="buttons-bottom">
+          <button id="restart-btn" class="btn-restart">
+            <span class="btn-icon">🔄</span>
+            <span class="btn-text">Redémarrer</span>
+          </button>
+          <button id="next-btn" class="btn-next" disabled>
+            <span class="btn-text">Suivant</span>
+            <span class="btn-icon">→</span>
+          </button>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
